@@ -1,2 +1,2 @@
-# spaceX
-This is a IBM Project on spaceX.
+# applied-data-science-capstone
+Coursera/IBM Applied Data Science Capstone
